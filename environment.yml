@@ -1,0 +1,4 @@
+name: reflex-components
+channels:
+  - defaults
+prefix: /Users/joshweimer/anaconda3/envs/reflex-components
