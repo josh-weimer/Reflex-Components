@@ -1,0 +1,13 @@
+@font-face {
+    font-family: MyFont;
+    src: url(fonts/DMSans-VariableFont_opsz,wght.ttf);
+}
+
+@font-face {
+    font-family: MyFont;
+    font-weight: bold;
+    src: url(fonts/DMSans-VariableFont_opsz,wght.ttf);
+}
+
+
+
