@@ -1,5 +1,6 @@
 @font-face {
     font-family: MyFont;
+    font-weight: normal;  /* Specify the normal weight */
     src: url(fonts/DMSans-VariableFont_opsz,wght.ttf);
 }
 
@@ -9,5 +10,8 @@
     src: url(fonts/DMSans-VariableFont_opsz,wght.ttf);
 }
 
+body {
+    font-family: MyFont !important;
+}
 
 
